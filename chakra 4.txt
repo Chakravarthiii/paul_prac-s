@@ -1,1 +1,8 @@
-Paul sunniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+ hi mr chakra we are decided to promote your job.....mayirla decided
+=======
+cdqwdcx hi mr chakra we are decided to promote your job
+>>>>>>> 42682a1376051d066fa02f6e0c4ca2032ae8e1e6
+>>>>>>> 3bdb19373210a748657c46bf8e96a130d253accb
